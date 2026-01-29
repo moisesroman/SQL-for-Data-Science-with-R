@@ -289,3 +289,4 @@ WHERE P.GEO='Saskatchewan' AND P.CROP_TYPE='Canola' ORDER BY F.DATES DESC limit 
 sqlQuery(conn, query13)
 
 
+
